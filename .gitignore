@@ -402,5 +402,9 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 .vs/
+bin/
+obj/
+*.laccdb
+*.ldb
 *.vsidx
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio

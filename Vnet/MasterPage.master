@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Vnet</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="PageWrapper">
+        <div id="HeaderMenu">
+            <div id="divWelcomeNLogOut" runat="server">
+                <asp:Label ID="lblWelcome" runat="server"/>
+                <a href="/Logout.aspx">Logout</a>
+            </div>
+
+            <div id="MPLinksTop">
+                <a href="Home.aspx" id="linkHome">Home</a>
+                <a href="Login.aspx" id="linkLogin" runat="server">Log In</a>
+                <a href="SignUp.aspx" id="linkRegister" runat="server">Sign Up</a>
+            </div>
+        </div>
+        <form id="form1" runat="server">
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </form>
+    </div>
+</body>
+</html>
