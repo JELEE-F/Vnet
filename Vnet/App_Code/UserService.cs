@@ -17,13 +17,15 @@ public class UsersService
         myConnection = new OleDbConnection(connectionString);
     }
 
-    public void insertIntoDB(string firstName, string lastName, string identification, string password, int points, int cityId)
+    public void insertIntoDB(string firstName, string lastName, string identification, string phoneNumber, bool gender, string password, int points, int cityId)
     {
         try
         {
             myConnection.Open();
-            string sSql = "INSERT INTO Users (FirstName, LastName, Identification, [Password], Points, CityId) " +
-                          "VALUES ('" + firstName + "', '" + lastName + "', '" + identification + "', '" + password + "', " + points + ", " + cityId + ")";
+            // (gender ? "True" : "False") --- If gender is true, then use the string "True"; otherwise, use "False".
+            string sSql = "INSERT INTO Users (FirstName, LastName, Identification, PhoneNumber, Gender, [Password], Points, CityId) " +
+                          "VALUES ('" + firstName + "', '" + lastName + "', '" + identification + "', '" + phoneNumber + "', " +
+                          (gender ? "True" : "False") + ", '" + password + "', " + points + ", " + cityId + ")";
 
             OleDbCommand myCmd = new OleDbCommand(sSql, myConnection);
             myCmd.ExecuteNonQuery();
@@ -38,7 +40,6 @@ public class UsersService
         }
     }
 
-    // used by the login page: does a user with this first name AND password exist?
     // used by the login page: does a user with this id AND password exist?
     public bool IsExist(string identification, string password)
     {
@@ -112,5 +113,29 @@ public class UsersService
         }
 
         return dataset.Tables[0].Rows[0]["FirstName"].ToString();
+    }
+
+    // used by the sign up page: all cities for the dropdown list, in the order of the cities table
+    public DataSet GetAllCities()
+    {
+        DataSet data = new DataSet();
+        try
+        {
+            myConnection.Open();
+            string sSql = "SELECT id, city FROM cities ORDER BY id;";
+            OleDbCommand myCmd = new OleDbCommand(sSql, myConnection);
+            OleDbDataAdapter adapter = new OleDbDataAdapter();
+            adapter.SelectCommand = myCmd;
+            adapter.Fill(data);
+        }
+        catch (Exception ex)
+        {
+            throw ex;
+        }
+        finally
+        {
+            myConnection.Close();
+        }
+        return data;
     }
 }

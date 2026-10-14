@@ -8,7 +8,6 @@ using System.Web;
 /// </summary>
 public class Connect
 {
-    // CHANGE THIS to the exact file name of your .accdb (the file must be inside App_Data)
     private const string DB = "VnetDB.accdb";
 
     public static string GetConnectionString()

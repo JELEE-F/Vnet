@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-        <div id="SUform">
+    <div id="SUform">
 
         <h1 id="SUformTitle">Sign Up</h1>
 
@@ -19,6 +19,23 @@
         <div><asp:TextBox ID="SUid" runat="server" ClientIDMode="Static"></asp:TextBox></div>
         <div><asp:Label ID="lblIdError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
 
+        <div id="SUphoneTitle">Phone number</div>
+        <div><asp:TextBox ID="SUphone" runat="server" ClientIDMode="Static"></asp:TextBox></div>
+        <div><asp:Label ID="lblPhoneError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
+
+        <div id="genderPlace">
+            <a id="SUgenderTitle">Gender: </a>
+            <asp:RadioButtonList ID="Gender" runat="server" ClientIDMode="Static" RepeatDirection="Horizontal">
+                <asp:ListItem Text="Male" Value="1"></asp:ListItem>
+                <asp:ListItem Text="Female" Value="2"></asp:ListItem>
+            </asp:RadioButtonList>
+        </div>
+        <div><asp:Label ID="lblGenderError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
+
+        <div id="SUcityTitle">Select City</div>
+        <div><asp:DropDownList ID="SUcity" runat="server" ClientIDMode="Static"></asp:DropDownList></div>
+        <div><asp:Label ID="lblCityError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
+
         <div id="SUpassTitle">Password</div>
         <div><asp:TextBox ID="SUpassword" runat="server" TextMode="Password" ClientIDMode="Static"></asp:TextBox></div>
         <div><asp:Label ID="lblPasswordError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
@@ -28,4 +45,3 @@
 
     </div>
 </asp:Content>
-
