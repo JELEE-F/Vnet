@@ -23,6 +23,10 @@
         <div><asp:TextBox ID="SUphone" runat="server" ClientIDMode="Static"></asp:TextBox></div>
         <div><asp:Label ID="lblPhoneError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
 
+        <div id="SUemailTitle">Email address</div>
+        <div><asp:TextBox ID="SUemail" runat="server" ClientIDMode="Static"></asp:TextBox></div>
+        <div><asp:Label ID="lblEmailError" runat="server" ForeColor="Red" ClientIDMode="Static" Text=""></asp:Label></div>
+
         <div id="genderPlace">
             <a id="SUgenderTitle">Gender: </a>
             <asp:RadioButtonList ID="Gender" runat="server" ClientIDMode="Static" RepeatDirection="Horizontal">

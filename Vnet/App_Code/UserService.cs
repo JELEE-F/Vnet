@@ -17,14 +17,14 @@ public class UsersService
         myConnection = new OleDbConnection(connectionString);
     }
 
-    public void insertIntoDB(string firstName, string lastName, string identification, string phoneNumber, bool gender, string password, int points, int cityId)
+    public void insertIntoDB(string firstName, string lastName, string identification, string phoneNumber, string email, bool gender, string password, int points, int cityId)
     {
         try
         {
             myConnection.Open();
             // (gender ? "True" : "False") --- If gender is true, then use the string "True"; otherwise, use "False".
-            string sSql = "INSERT INTO Users (FirstName, LastName, Identification, PhoneNumber, Gender, [Password], Points, CityId) " +
-                          "VALUES ('" + firstName + "', '" + lastName + "', '" + identification + "', '" + phoneNumber + "', " +
+            string sSql = "INSERT INTO Users (FirstName, LastName, Identification, PhoneNumber, Email, Gender, [Password], Points, CityId) " +
+                          "VALUES ('" + firstName + "', '" + lastName + "', '" + identification + "', '" + phoneNumber + "', '" + email + "', " +
                           (gender ? "True" : "False") + ", '" + password + "', " + points + ", " + cityId + ")";
 
             OleDbCommand myCmd = new OleDbCommand(sSql, myConnection);

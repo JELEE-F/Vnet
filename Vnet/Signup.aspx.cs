@@ -14,11 +14,12 @@ public partial class Signup : System.Web.UI.Page
         lblLastNameError.Text = "";
         lblIdError.Text = "";
         lblPhoneError.Text = "";
+        lblEmailError.Text = "";
         lblGenderError.Text = "";
         lblCityError.Text = "";
         lblPasswordError.Text = "";
 
-
+        // fill the cities dropdown only on the first load, so the chosen city is not reset on postback
         if (!IsPostBack)
         {
             UsersService us = new UsersService();
@@ -36,10 +37,11 @@ public partial class Signup : System.Web.UI.Page
         string lastName = SUlastName.Text.Trim();
         string id = SUid.Text.Trim();
         string phone = SUphone.Text.Trim();
+        string email = SUemail.Text.Trim();
         string password = SUpassword.Text;
         bool gender = false;
         int points = 0;
-        int cityId = 1;
+        int cityId = 0;
 
         bool isValid = true;
 
@@ -58,6 +60,24 @@ public partial class Signup : System.Web.UI.Page
         {
             lblPasswordError.Text = "Please enter a password.";
             isValid = false;
+        }
+
+        // email checks: not empty, one @, a dot after the @ (not right next to it, not at the end), no spaces
+        if (email == "")
+        {
+            lblEmailError.Text = "Please enter an email address.";
+            isValid = false;
+        }
+        else
+        {
+            int atIndex = email.IndexOf('@');
+            int dotIndex = email.LastIndexOf('.');
+
+            if (atIndex < 1 || email.IndexOf('@', atIndex + 1) != -1 || dotIndex < atIndex + 2 || dotIndex == email.Length - 1 || email.Contains(" "))
+            {
+                lblEmailError.Text = "Please enter a valid email address (example: name@mail.com).";
+                isValid = false;
+            }
         }
 
         // city: the dropdown value is the city id from the cities table (empty only if the table has no rows)
@@ -154,7 +174,7 @@ public partial class Signup : System.Web.UI.Page
 
         if (isValid)
         {
-            User u1 = new User(firstName, lastName, id, phone, gender, password, points, cityId);
+            User u1 = new User(firstName, lastName, id, phone, email, gender, password, points, cityId);
             u1.insertIntoDB();
             Session["userName"] = firstName;
             Session["loggedIn"] = true;
