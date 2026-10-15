@@ -44,16 +44,12 @@ public partial class Signup : System.Web.UI.Page
         bool isValid = true;
 
         // server side checks - a message under each field
-        if (firstName == "")
+        
+        if (firstName.Length < 2)
         {
-            lblFirstNameError.Text = "Please enter a first name.";
+            lblFirstNameError.Text = "First name must contain at least 2 characters.";
             isValid = false;
-        }
-        if (lastName == "")
-        {
-            lblLastNameError.Text = "Please enter a last name.";
-            isValid = false;
-        }
+        }   
         if (password == "")
         {
             lblPasswordError.Text = "Please enter a password.";
@@ -113,39 +109,58 @@ public partial class Signup : System.Web.UI.Page
             }
         }
 
-        // id checks: not empty, only digits, exactly 9 digits
+        // id check, step 1: exactly 9 characters and all of them are digits
         bool idFormatOk = true;
-        if (id == "")
+        if (id.Length != 9)
         {
-            lblIdError.Text = "Please enter an ID.";
             idFormatOk = false;
         }
         else
         {
-            bool onlyDigits = true;
-            for (int i = 0; i < id.Length; i++)
+            for (int i = 0; i < 9; i++)
             {
                 if (!char.IsDigit(id[i]))
                 {
-                    onlyDigits = false;
+                    idFormatOk = false;
                 }
             }
+        }
 
-            if (!onlyDigits || id.Length != 9)
+        // id check, step 2: Israeli check digit
+        // every second digit is doubled (if that gives 2 digits, subtract 9), then everything is added up
+        // the id is valid only if the sum divides by 10
+        if (idFormatOk)
+        {
+            int sum = 0;
+            for (int i = 0; i < 9; i++)
             {
-                lblIdError.Text = "ID must be a number with exactly 9 digits.";
+                int digit = (int)char.GetNumericValue(id[i]);
+                if (i % 2 == 1)
+                {
+                    digit = digit * 2;
+                }
+                if (digit > 9)
+                {
+                    digit = digit - 9;
+                }
+                sum = sum + digit;
+            }
+
+            if (sum % 10 != 0)
+            {
                 idFormatOk = false;
             }
         }
 
         if (!idFormatOk)
         {
+            lblIdError.Text = "Invalid ID number.";
             isValid = false;
         }
 
         UsersService us = new UsersService();
 
-        // only ask the DB about the id if it is in a valid format
+        // only ask the DB about the id if it is valid
         if (idFormatOk && us.IsIdExist(id))
         {
             lblIdError.Text = "This ID is already registered.";

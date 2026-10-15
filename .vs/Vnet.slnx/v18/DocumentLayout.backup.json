@@ -1,61 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\",
+  "WorkspaceRootPath": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|d:\\mine\\learning html \u002B school\\shirutey reshet\\new\\vnet\\vnet\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\app_code\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|c:\\mlne\\school\\megama\\vnet web proj\\vnet\\vnet\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\app_code\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\app_code\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\app_code\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\vnet\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\app_code\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet|solutionrelative:vnet\\app_code\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,15 +97,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUsers.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\ManageUsers.aspx",
+              "RelativeDocumentMoniker": "Vnet\\ManageUsers.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\ManageUsers.aspx",
+              "RelativeToolTip": "Vnet\\ManageUsers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-15T08:05:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\User.cs",
+              "RelativeDocumentMoniker": "Vnet\\App_Code\\User.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\User.cs",
+              "RelativeToolTip": "Vnet\\App_Code\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:14:50.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Vnet\\Login.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx.cs",
+              "RelativeToolTip": "Vnet\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T09:02:25.792Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "Vnet\\Signup.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx.cs",
+              "RelativeToolTip": "Vnet\\Signup.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T08:59:53.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeDocumentMoniker": "Vnet\\Signup.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeToolTip": "Vnet\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-05T08:57:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "Vnet\\Signup.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx.cs",
+              "RelativeToolTip": "Vnet\\Signup.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:11:45.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Vnet\\Login.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx.cs",
+              "RelativeToolTip": "Vnet\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:12:33.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\User.cs",
+              "RelativeDocumentMoniker": "Vnet\\App_Code\\User.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\User.cs",
+              "RelativeToolTip": "Vnet\\App_Code\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:06:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\UserService.cs",
+              "RelativeDocumentMoniker": "Vnet\\App_Code\\UserService.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\UserService.cs",
+              "RelativeToolTip": "Vnet\\App_Code\\UserService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:06:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeDocumentMoniker": "Vnet\\Signup.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeToolTip": "Vnet\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-04T21:10:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.aspx",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Home.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Home.aspx",
               "RelativeDocumentMoniker": "Vnet\\Home.aspx",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Home.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Home.aspx",
               "RelativeToolTip": "Vnet\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -82,124 +241,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Signup.aspx",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Signup.aspx",
-              "RelativeDocumentMoniker": "Vnet\\Signup.aspx",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Signup.aspx",
-              "RelativeToolTip": "Vnet\\Signup.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T21:10:08.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MasterPage.master",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\MasterPage.master",
-              "RelativeDocumentMoniker": "Vnet\\MasterPage.master",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\MasterPage.master",
-              "RelativeToolTip": "Vnet\\MasterPage.master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T21:05:08.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Login.aspx",
-              "RelativeDocumentMoniker": "Vnet\\Login.aspx",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Login.aspx",
-              "RelativeToolTip": "Vnet\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T21:10:26.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "packages.config",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\packages.config",
-              "RelativeDocumentMoniker": "Vnet\\packages.config",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\packages.config",
-              "RelativeToolTip": "Vnet\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-10-04T21:50:01.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.aspx.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Home.aspx.cs",
-              "RelativeDocumentMoniker": "Vnet\\Home.aspx.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Home.aspx.cs",
-              "RelativeToolTip": "Vnet\\Home.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:46:08.985Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "Vnet\\Login.aspx.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Login.aspx.cs",
-              "RelativeToolTip": "Vnet\\Login.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:12:33.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\UserService.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\UserService.cs",
               "RelativeDocumentMoniker": "Vnet\\App_Code\\UserService.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\UserService.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\UserService.cs",
               "RelativeToolTip": "Vnet\\App_Code\\UserService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwGcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:06:33.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\User.cs",
-              "RelativeDocumentMoniker": "Vnet\\App_Code\\User.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\User.cs",
-              "RelativeToolTip": "Vnet\\App_Code\\User.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAzwA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:06:13.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Connect.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\Connect.cs",
-              "RelativeDocumentMoniker": "Vnet\\App_Code\\Connect.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\App_Code\\Connect.cs",
-              "RelativeToolTip": "Vnet\\App_Code\\Connect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:05:56.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-05T09:15:04.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master",
+              "RelativeDocumentMoniker": "Vnet\\MasterPage.master",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master",
+              "RelativeToolTip": "Vnet\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-05T08:56:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master",
+              "RelativeDocumentMoniker": "Vnet\\MasterPage.master",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master",
+              "RelativeToolTip": "Vnet\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-04T21:05:08.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "MasterPage.master.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\MasterPage.master.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master.cs",
               "RelativeDocumentMoniker": "Vnet\\MasterPage.master.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\MasterPage.master.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master.cs",
               "RelativeToolTip": "Vnet\\MasterPage.master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,10 +291,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx",
+              "RelativeDocumentMoniker": "Vnet\\Login.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Login.aspx",
+              "RelativeToolTip": "Vnet\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-04T21:10:26.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\packages.config",
+              "RelativeDocumentMoniker": "Vnet\\packages.config",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\packages.config",
+              "RelativeToolTip": "Vnet\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-04T21:50:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Vnet\\Home.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Home.aspx.cs",
+              "RelativeToolTip": "Vnet\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:46:08.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Logout.aspx.cs",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Logout.aspx.cs",
               "RelativeDocumentMoniker": "Vnet\\Logout.aspx.cs",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Logout.aspx.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Logout.aspx.cs",
               "RelativeToolTip": "Vnet\\Logout.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,21 +338,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "App_Web_yl0z1ukw.0.cs",
               "DocumentMoniker": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
               "ToolTip": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAtwNwAAAAvAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T21:50:54.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\Connect.cs",
+              "RelativeDocumentMoniker": "Vnet\\App_Code\\Connect.cs",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\App_Code\\Connect.cs",
+              "RelativeToolTip": "Vnet\\App_Code\\Connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:05:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Logout.aspx",
-              "DocumentMoniker": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Logout.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Logout.aspx",
               "RelativeDocumentMoniker": "Vnet\\Logout.aspx",
-              "ToolTip": "D:\\MIne\\learning html \u002B school\\shirutey reshet\\new\\Vnet\\Vnet\\Logout.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Logout.aspx",
               "RelativeToolTip": "Vnet\\Logout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
