@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|c:\\mlne\\school\\megama\\vnet web proj\\vnet\\vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|c:\\mlne\\school\\megama\\vnet web proj\\vnet\\vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|c:\\mlne\\school\\megama\\vnet web proj\\vnet\\vnet\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\vnet\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2F22112B-A35A-7998-A6FB-B67C973565E3}|C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet|solutionrelative:vnet\\manageusers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -97,11 +97,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App_Web_yl0z1ukw.0.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
+              "ToolTip": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T21:50:54.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeDocumentMoniker": "Vnet\\Signup.aspx",
+              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
+              "RelativeToolTip": "Vnet\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-05T08:57:05.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,8 +137,7 @@
               "RelativeToolTip": "Vnet\\ManageUsers.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-15T08:05:01.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T08:05:01.876Z"
             },
             {
               "$type": "Document",
@@ -148,22 +171,9 @@
               "RelativeDocumentMoniker": "Vnet\\Signup.aspx.cs",
               "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx.cs",
               "RelativeToolTip": "Vnet\\Signup.aspx.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T08:59:53.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Signup.aspx",
-              "DocumentMoniker": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
-              "RelativeDocumentMoniker": "Vnet\\Signup.aspx",
-              "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\Signup.aspx",
-              "RelativeToolTip": "Vnet\\Signup.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-05T08:57:05.905Z",
               "EditorCaption": ""
             },
             {
@@ -236,8 +246,7 @@
               "RelativeToolTip": "Vnet\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-10-04T21:09:42.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T21:09:42.694Z"
             },
             {
               "$type": "Document",
@@ -259,7 +268,6 @@
               "RelativeDocumentMoniker": "Vnet\\MasterPage.master",
               "ToolTip": "C:\\Mlne\\school\\megama\\Vnet Web proj\\Vnet\\Vnet\\MasterPage.master",
               "RelativeToolTip": "Vnet\\MasterPage.master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-10-05T08:56:39.3Z",
               "EditorCaption": ""
@@ -335,17 +343,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T21:12:52.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App_Web_yl0z1ukw.0.cs",
-              "DocumentMoniker": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
-              "ToolTip": "C:\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\\u05E2\u05D9\u05DC\u05D9\\AppData\\Local\\Temp\\Temporary ASP.NET Files\\root.vswh\\b47d4755\\f99815f9\\App_Web_yl0z1ukw.0.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T21:50:54.513Z"
             },
             {
               "$type": "Document",
