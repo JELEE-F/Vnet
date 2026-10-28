@@ -20,6 +20,7 @@
                 <a href="Home.aspx" id="linkHome">Home</a>
                 <a href="Login.aspx" id="linkLogin" runat="server">Log In</a>
                 <a href="SignUp.aspx" id="linkRegister" runat="server">Sign Up</a>
+                <a href="ManageUsers.aspx" id="linkManageUsers" runat="server">Manage Users</a>
             </div>
         </div>
         <form id="form1" runat="server">

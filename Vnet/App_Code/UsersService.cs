@@ -115,6 +115,29 @@ public class UsersService
         return dataset.Tables[0].Rows[0]["FirstName"].ToString();
     }
 
+    public DataSet GetAllUsers()
+    {
+        DataSet data = new DataSet();
+        try
+        {
+            myConnection.Open();
+            string sSql = "SELECT FirstName, Points, CityId, LastName, Password, Identification, PhoneNumber, Gender FROM Users;";
+            OleDbCommand myCmd = new OleDbCommand(sSql, myConnection);
+            OleDbDataAdapter adapter = new OleDbDataAdapter();
+            adapter.SelectCommand = myCmd;
+            adapter.Fill(data);
+        }
+        catch (Exception ex)
+        {
+            throw ex;
+        }
+        finally
+        {
+            myConnection.Close();
+        }
+        return data;
+    }
+
     // used by the sign up page: all cities for the dropdown list, in the order of the cities table
     public DataSet GetAllCities()
     {
