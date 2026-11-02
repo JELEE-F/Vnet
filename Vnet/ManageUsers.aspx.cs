@@ -32,4 +32,9 @@ public partial class ManageUsers : System.Web.UI.Page
         GridUsers.DataSource = us.GetAllUsers();
         GridUsers.DataBind();
     }
+
+    protected void GridUsers_RowUpdating(object sender, GridViewUpdateEventArgs e)
+    {
+
+    }
 }

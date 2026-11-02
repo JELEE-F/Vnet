@@ -4,11 +4,11 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
-    <asp:GridView ID="GridUsers" runat="server" AutoGenerateColumns="False" OnRowCancelingEdit="GridUsers_RowCancelingEdit" OnRowEditing="GridUsers_RowEditing">
+    <asp:GridView ID="GridUsers" runat="server" AutoGenerateColumns="False" DataKeyNames="Identification" OnRowCancelingEdit="GridUsers_RowCancelingEdit" OnRowEditing="GridUsers_RowEditing" OnRowUpdating="GridUsers_RowUpdating">
     <Columns>
         <asp:BoundField DataField="FirstName" HeaderText="FIrst Name" />
         <asp:BoundField DataField="LastName" HeaderText="Last Name" HtmlEncodeFormatString="False" />
-        <asp:BoundField DataField="Identification" HeaderText="ID" />
+        <asp:BoundField DataField="Identification" HeaderText="ID" ReadOnly="True" />
         <asp:BoundField DataField="PhoneNumber" HeaderText="Phone Number" />
         <asp:BoundField DataField="Password" HeaderText="Password" />
         <asp:BoundField DataField="Points" HeaderText="Points" />
